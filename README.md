@@ -55,8 +55,8 @@ Open http://localhost:3000 in your browser
 
 Developed by Joycie Gerges
 
-📧 Email: joyciegerges@gmail.com
+📧 Email: kareem.medhat1804@gmail.com
 
-🌐 Portfolio: https://joycieportfolio.netlify.app/
+🌐 Portfolio:
 
-🔗 LinkedIn: https://www.linkedin.com/in/joycie-gerges-b45514248
+🔗 LinkedIn: https://www.linkedin.com/in/kareemmedhatgabr/
